@@ -1,0 +1,4 @@
+ openai 
+ chromadb 
+ pypdf2
+ python-dotenv
